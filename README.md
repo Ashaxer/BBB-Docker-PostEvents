@@ -17,7 +17,7 @@ cd PATH_TO_YOUR_BBB_ROOT
 ```
 Clone:
 ```
-git clone https://github.com/Ashaxer/BBB-Docker-PostEvents.git
+git clone https://github.com/Ashaxer/BBB-Docker-PostEvents.git .
 cd BBB-Docker-PostEvents
 ```
 
